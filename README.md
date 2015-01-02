@@ -17,3 +17,8 @@ make clean         clean temp compilers files
 make debug         builds in debug mode    
 make release       builds in release mode 
 ```
+
+## Contact and credits
+                             
+**Author:**    Radim Loskot  
+**gmail.com:** radim.loskot (e-mail)
